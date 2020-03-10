@@ -146,12 +146,17 @@
     <ClCompile Include="1085_makeshort.cpp" />
     <ClCompile Include="11866.cpp" />
     <ClCompile Include="1193.cpp" />
+    <ClCompile Include="1259.cpp" />
+    <ClCompile Include="1654.cpp" />
+    <ClCompile Include="18111.cpp" />
+    <ClCompile Include="1874.cpp" />
     <ClCompile Include="1966.cpp" />
     <ClCompile Include="2108.cpp" />
     <ClCompile Include="2164.cpp" />
     <ClCompile Include="2475.cpp" />
     <ClCompile Include="2869.cpp" />
     <ClCompile Include="4153.cpp" />
+    <ClCompile Include="4949.cpp" />
     <ClCompile Include="5430.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
