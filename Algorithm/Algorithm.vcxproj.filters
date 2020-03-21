@@ -21,22 +21,13 @@
     <ClCompile Include="10816_useArray.cpp">
       <Filter>리소스 파일\소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="15829.cpp">
-      <Filter>리소스 파일\소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="17626.cpp">
-      <Filter>리소스 파일\소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="11724.cpp">
-      <Filter>리소스 파일\소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="7576.cpp">
-      <Filter>리소스 파일\소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="7569.cpp">
       <Filter>리소스 파일\소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="1003.cpp">
+    <ClCompile Include="1918.cpp">
+      <Filter>리소스 파일\소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="7662.cpp">
       <Filter>리소스 파일\소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
