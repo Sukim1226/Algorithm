@@ -27,8 +27,6 @@ int main(void) {
         string token = str.substr(0, idx);
         str = str.substr(idx + 1, str.length() - idx - 1);
 
-        cout << i << "th iteration token : " << token << " string : " << str << endl;
-
         if (symbol.find(pattern[i]) != symbol.end()) {
             if (symbol[pattern[i]] != token || word[token] != pattern[i]) {
                 ans = false;
@@ -48,7 +46,7 @@ int main(void) {
         ans = false;
     }
 
-    cout << ans << endl;
+    cout << (ans ? "True" : "False") << endl;
 
     return 0;
 }
